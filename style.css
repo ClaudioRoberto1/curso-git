@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(  rgb(218, 192, 100), rgb(2, 73, 71),rgb(130, 94, 28)) ;
+}
+
+h1{
+    font-size: 40px;
+
+}
+
+img {
+    width: 200px;
+}
+
+.corpo{
+    margin-top: 30px;
+    text-align: center;
+    color:white;
+    font: 40px ;
+} 
+
+p {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+ul{   
+   
+    color:white;
+    font: 40px ;
+}
+
+#lista{
+    font-size: 20px;
+}
+
+#site{
+    font-size: 20px;
+    color:rgb(17, 15, 160);
+}
+
+footer {
+  margin: 35px;
+   text-align: center;
+   color:rgb(168, 36, 24);
+}
+
+#site:hover{
+    font-size: 35px;
+   
+}
